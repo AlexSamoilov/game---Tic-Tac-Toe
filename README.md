@@ -1,4 +1,4 @@
-# game---Tic-Tac-Toe
+# game - Tic Tac Toe
 
 Tic tac toe - native javascript game
 
