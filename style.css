@@ -4,6 +4,10 @@
   outline: none;
 }
 
+body {
+  background-image: url(images/yellow-wall.jpg);
+}
+
 .game-title {
   display: block;
   margin-bottom: 30px;
